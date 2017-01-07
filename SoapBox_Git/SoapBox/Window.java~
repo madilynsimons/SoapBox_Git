@@ -1,0 +1,19 @@
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+
+
+public class Window{
+  
+  public Window(){}
+  
+  public void open(){
+    JFrame frame = new JFrame("SoapBox");
+    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    frame.setPreferredSize(new Dimension(500, 400));
+    frame.pack();
+    frame.setLocationRelativeTo(null);
+    frame.setVisible(true);
+  }
+  
+}//end of class
