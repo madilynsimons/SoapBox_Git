@@ -1,0 +1,2 @@
+Lamar Alexander,@SenAlexander,Alabama,R,Senator
+Robert Bentley,@GovernorBentley,Alabama,D,Governor
